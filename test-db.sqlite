@@ -1,0 +1,8 @@
+
+
+
+const dog = {
+  name: Max,
+  age: 10,
+  breed:GSD
+}
